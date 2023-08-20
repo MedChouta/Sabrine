@@ -17,9 +17,13 @@ DEBUG=myapp:* npm start
 ## Flask
 
 ### Dependencies
-Simply run
+#### Virtual env
 ```
-pip install -r requirements.txt
+python -m venv Whisper
+```
+#### Requirements
+```
+pip install -r Whisper/requirements.txt
 ```
 
 ### To start Flask server
