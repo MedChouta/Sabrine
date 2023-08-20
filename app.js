@@ -1,3 +1,9 @@
+/**
+ * Auto-generated setup by express-generator
+ * 
+ * Not modified yet
+ */
+
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
