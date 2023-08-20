@@ -1,4 +1,9 @@
-# NodeJS
+# Sabrine
+ Basing our future multibillion dollar company on Sean Parker and Zucc
+ 
+ ![Sean, Napster, Parker](Sean.png)
+
+## NodeJS
 ### Dependencies
 Simply run
 ```
@@ -9,7 +14,7 @@ Run in root folder
 ```
 DEBUG=myapp:* npm start
 ```
-# Flask
+## Flask
 
 ### Dependencies
 Simply run
