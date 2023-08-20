@@ -22,12 +22,14 @@ DEBUG=myapp:* npm start
 python -m venv Whisper
 ```
 #### Requirements
+Run the following in /Whisper folder
+
 ```
-pip install -r Whisper/requirements.txt
+pip install -r requirements.txt
 ```
 
-### To start Flask server
-Run in root folder
+### To start server
+Run the following in /Whisper folder
 ```
 flask --app main.py run
 ```
