@@ -17,7 +17,8 @@ DEBUG=myapp:* npm start
 ## Flask
 
 ### Dependencies
-#### Virtual env
+#### Environment
+Before downloading any dependencies, start a virtual environment using:
 ```
 python -m venv Whisper
 ```
